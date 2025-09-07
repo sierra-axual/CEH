@@ -24,6 +24,7 @@
 ## Quick Reference
 ```
 zta8REQ3cpc!weu6tjk
+!U6WED8g2#
 ```
 
 ---
