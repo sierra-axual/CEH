@@ -1,4 +1,4 @@
-# 🛠 CEH Exam Cheat Sheet
+# 🛠 CEH Exam Notes
 
 ## 📑 Table of Contents
 - [Quick Reference](#quick-reference)
